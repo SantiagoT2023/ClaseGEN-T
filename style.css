@@ -1,0 +1,38 @@
+.Imperio {
+background-color: red;
+}
+
+.Rebeldes {
+background-color: blue;
+}
+
+#DarthVader {
+font-size: xx-large;
+}
+
+#Luke {
+font-style: italic;
+}
+
+.Soldados {
+border-style: dashed;
+}
+
+.Tropa {
+letter-spacing: 10px;
+}
+
+.Apoyo {
+text-align: center;
+}
+
+.Naves {
+text-transform: uppercase;
+}
+
+.Droides {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
