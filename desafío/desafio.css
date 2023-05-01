@@ -1,0 +1,43 @@
+.fondoyletra {
+background-color: black;
+text-align: center;
+font-size: 150%;
+color: white;
+}
+
+.Azul {
+background-color: blue;
+color: white;
+
+}
+
+.Rojo {
+background-color: red;
+color: white;
+}
+
+.fondo2 {
+background-image: url(https://us.123rf.com/450wm/virtosmedia/virtosmedia2302/virtosmedia230255366/198885541-compuesto-digital-de-personas-caminando-en-la-calle-con-luces-y-edificios-de-la-ciudad.jpg?ver=6);
+}
+
+.fondo3 {
+background-image: url(https://www.unacasallenadegatos.com/wp-content/uploads/una-casa-llena-de-gatos.jpg);
+}
+
+.titulo{
+    text-align: center;
+    font-size: 400%;
+backdrop-filter: blur(10px);
+}
+
+.azul{
+color: blue;
+backdrop-filter: blur(10px);
+font-size: 200%;
+}
+
+.rojo {
+color: red;
+backdrop-filter: blur(10px);
+font-size: 200%;
+}
