@@ -1,0 +1,29 @@
+div{
+    margin: 0px auto;
+}
+
+.panarriba {
+background-color: tan;
+width: 500px;
+height: 80px;
+border-top-left-radius: 70px;
+border-top-right-radius: 70px;
+}
+
+.salchicha{
+background-color: brown;
+width: 650px;
+height: 75px;
+border-top-left-radius: 70px;
+border-top-right-radius: 70px;
+border-bottom-right-radius: 70px;
+border-bottom-left-radius: 70px;
+}
+
+.panabajo{
+background-color: tan;
+width: 500px;
+height: 80px;
+border-bottom-right-radius: 70px;
+border-bottom-left-radius: 70px;
+}
