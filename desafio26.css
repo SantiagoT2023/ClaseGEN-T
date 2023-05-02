@@ -1,0 +1,21 @@
+#container {
+width: 80%;
+margin: 0 auto;
+}
+
+.imag {
+width: 30%;
+margin: 1.4%;
+}
+
+.titulo {
+margin-left: 25%;
+font-size: 40px;
+font-family: vina sans-serif;
+text-transform: uppercase;
+border-bottom: 2px solid red;
+width: 29%;
+padding-bottom: 3%;
+font-family: 'Climate Crisis', cursive;
+font-family: 'Gluten', cursive;
+}
